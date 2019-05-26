@@ -63,14 +63,14 @@ edgar:
   facebook: False
   twitter: False
   cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
+kerry:
+  username: kerry
+  name: Kerry Hatcher
+  location: Macon, GA
   url_full: False
   url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
+  bio: An American
+  picture: assets/images/ME.jpg
   facebook: False
   twitter: False
   cover: False
