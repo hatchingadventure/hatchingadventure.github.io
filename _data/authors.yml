@@ -74,3 +74,14 @@ kerry:
   facebook: False
   twitter: False
   cover: False
+stephanie:
+  username: stephanie
+  name: Stephanie Hatcher
+  location: Macon, GA
+  url_full: False
+  url: False
+  bio: mamma
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
