@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/water.jpg
+cover: assets/images/fausto-garcia-659110-unsplash.jpg
 navigation: True
 title: Camping with kids
 date: 2014-08-12 10:18:00
