@@ -12,4 +12,6 @@ logo: assets/images/ghost.png
 author: stephanie
 ---
 
+Work in progress... 
+
 An A
