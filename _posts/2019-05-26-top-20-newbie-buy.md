@@ -12,3 +12,5 @@ author: kerry
 ---
 
 One
+
+{% instagram left http://instagram.com/p/BUG/ 300 300 "sample text" %}
