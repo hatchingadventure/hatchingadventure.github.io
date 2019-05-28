@@ -95,3 +95,7 @@ exclude:
   - "*.Rmd"
   - .git*
 
+
+# Instagram plugin
+instagram_cache: false 
+instagram_cache_dir: '.instagram-cache' 
