@@ -17,7 +17,7 @@ Overall raking: 4/5
 
 Dates: 23-28 May 2019
 
-We spent 5 really fun days at Claystone in Macon, GA in site 16. The campground is rather small, but its part of a much larger recreation area. Its managed by the [Macon-Bibb County goverment]( http://laketobo.maconbibb.us/camping/ "Lake Tobo Website"). and is very much above average compared to other city parks we've stayed at.
+We spent 5 really fun days at Claystone in Macon, GA in site 16. The campground is rather small, but its part of a much larger recreation area. Its managed by the [Macon-Bibb County government]( http://laketobo.maconbibb.us/camping/ "Lake Tobo Website"). and is very much above average compared to other city parks we've stayed at.
 
 
 ## Site 16
@@ -26,28 +26,28 @@ _Jackson made sure that site 16's gravel was mowed to perfection_
 
 Hookups: Water / electric / cable
 
-Site 16 was very convently located next to the shower house. The equipment (grill & pinick table) apeared to be fairly new. The site was a little unlevel and required the tounge jack to be fully extended to get close to level. 
+Site 16 was very conveniently located next to the shower house. The equipment (grill & picnic table) appeared to be fairly new. The site was a little unlevelled and required the tongue jack to be fully extended to get close to level. 
 
-__Note on shower house:__ Its built like a concrete bunker. In fact a group of campers survied a direct hit from a tornado in 2005 inside one of the shower houses at Lake Tobesofkee. 
+__Note on shower house:__ Its built like a concrete bunker. In fact a group of campers survived a direct hit from a tornado in 2005 inside one of the shower houses at Lake Tobesofkee. 
 
 
-## Park ameinites 
-![Childern splashing on beach](/assets/images/2019-05-claystone/Claystone_3.jpg)
-_lots of childern were at the beach_
+## Park amenities 
+![Children splashing on beach](/assets/images/2019-05-claystone/Claystone_3.jpg)
+_lots of children were at the beach_
 
- The main attaction of the park was the lake beach. It was rather large and not too crowed even on a popular weekend like memoral day. There were life guards on site and the park even has dedicated law enforcement park rangers that patroled reguarly. 
+ The main attraction of the park was the lake beach. It was rather large and not too crowed even on a popular weekend like memoral day. There were life guards on site and the park even has dedicated law enforcement park rangers that patroled reguarly. 
  
- Other ameinites included;
-  - lots of day use pinick areas (w/ grills) 
+ Other amenities included;
+  - lots of day use picnic areas (w/ grills) 
   - Boat ramp with plenty of parking
-  - Comerical marina (next door) with boat rentals 
+  - Commercial marina (next door) with boat rentals 
   - Group pavilions 
-  - Frisbe golf course
+  - Frisbee golf course
   - Paved and dirt tails for biking and walking
   - Dump station
 
 
-## Galery
+## Gallery
 
 ![frisbee golf](/assets/images/2019-05-claystone/Claystone_13.jpg)
 _Lakeside frisbee golf_
