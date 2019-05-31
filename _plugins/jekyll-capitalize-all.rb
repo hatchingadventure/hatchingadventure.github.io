@@ -4,7 +4,8 @@ require 'uri'
 # Capitalize all words of the input
 module CapitalizeAll
   def capitalizeall(words)
-    return words.split(' ').map(&:capitalize).join(' ')
+    #return words.split(' ').map(&:capitalize).join(' ')
+    return words
   end
 end
 

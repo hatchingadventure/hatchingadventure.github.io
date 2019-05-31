@@ -11,6 +11,7 @@ subclass: 'post tag-fiction'
 author: kerry
 ---
 
-Work in progress... 
+
+
 
 {% instagram left http://instagram.com/p/BUG/ 300 300 "sample text" %}
