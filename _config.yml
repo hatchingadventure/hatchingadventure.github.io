@@ -44,7 +44,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 
 feed:
   path: feed.xml
